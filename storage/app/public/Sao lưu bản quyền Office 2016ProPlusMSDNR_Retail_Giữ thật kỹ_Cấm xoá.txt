@@ -1,0 +1,17 @@
+
+IID:178693103923307480565013680435727906390130787591258275243746402
+CID:194600294394301602431934497082733954663306699811  
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+---Processing--------------------------
+---------------------------------------
+PRODUCT ID: 00351-35020-45795-AA875
+SKU ID: 84832881-46ef-4124-8abc-eb493cdcf78e
+LICENSE NAME: Office 16, Office16ProPlusMSDNR_Retail edition
+LICENSE DESCRIPTION: Office 16, RETAIL channel
+LICENSE STATUS:  ---LICENSED--- 
+Last 5 characters of installed product key: B7WDP
+---------------------------------------
+---------------------------------------
+---Exiting-----------------------------

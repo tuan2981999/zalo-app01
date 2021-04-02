@@ -1,0 +1,36 @@
+<bookstore>
+<book category="COOKING">
+<title lang="en">Tây</title>
+<author>Giada De Laurentiis</author>
+<year>2005</year>
+<price>30.00</price>
+</book>
+
+<book category="CHILDREN">
+<title lang="en">Hoàng Tây</title>
+<author>J K. Rowling</author>
+<year>2005</year>
+<price>29.99</price>
+</book>
+
+<book category="WEB">
+<title lang="en-us">XQuery123132131 Kick Start</title>
+<author>James M1312312312cGovern</author>
+<year>2003</year>
+<price>49.99</price>
+</book>
+
+<book category="WEB">
+<title lang="en-us">Le213123123123123arning XML</title>
+<author>Erik T.12312312 Ray</author>
+<year>2003</year>
+<price>39.95</price>
+</book>
+
+<book category="WádáEB">
+<title lang="en-us">Trương Hoàng Tây</title>
+<author>Erik T.12312312 Ray</author>
+<year>2003</year>
+<price>39.95</price>
+</book>
+</bookstore>
